@@ -11,7 +11,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="420" src="https://streak-stats.demolab.com/?user=leotrvs&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakNum=388BFD&currStreakLabel=388BFD&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=leotrvs&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakNum=388BFD&currStreakLabel=388BFD&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=leotrvs&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakNum=0969DA&currStreakLabel=0969DA&sideNums=1F2328&sideLabels=57606A&dates=6E7781" />
+    <img width="420" src="https://streak-stats.demolab.com/?user=leotrvs&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakNum=388BFD&currStreakLabel=388BFD&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
+  </picture>
 </p>
 
 <picture>
