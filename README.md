@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leotrvs/leotrvs/main/assets/stack.svg?v=1" width="860" alt="stack" />
+  <img src="https://raw.githubusercontent.com/leotrvs/leotrvs/main/assets/stack.svg?v=2" width="860" alt="stack" />
 </p>
 
 <p align="center">
