@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,tailwind,html,css,supabase,postgres,git,githubactions,vscode,cs&perline=14" alt="stack" />
+  <img src="https://raw.githubusercontent.com/leotrvs/leotrvs/main/assets/claude.svg" width="48" height="48" alt="Claude" />
 </p>
 
 <p align="center">
